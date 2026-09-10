@@ -6,6 +6,13 @@ Record every growth-relevant edit here. Keep entries short, factual, and useful 
 
 ## Change Log
 
+### 2026-09-10 - Adsterra fixed six-unit code populated
+
+- Task: Replace the six empty Adsterra unit placeholders in `src/data/ads.ts` with the real codes returned from the Adsterra publisher dashboard for this site.
+- Files changed: `src/data/ads.ts`.
+- Units populated: Native Banner, Banner 728x90, Banner 468x60, Banner 320x50, Banner 160x600, Smartlink.
+- Verification: `npm run verify` (typecheck, template, content, rendered SEO, route manifest, and full local validation) after the edit.
+
 ### 2026-08-12 - Static discovery and review freshness baseline added
 
 - Task: Add locale-aware static search, automatic recent updates, visible review dates, and browser metadata/security defaults to the shared template.
