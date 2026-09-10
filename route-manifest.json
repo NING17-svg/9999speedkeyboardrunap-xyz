@@ -1,0 +1,122 @@
+[
+  {
+    "id": "home",
+    "translationKey": "home",
+    "locale": "en-US",
+    "routeKind": "home",
+    "url": "/",
+    "alternates": {
+      "en-US": "/"
+    }
+  },
+  {
+    "id": "about",
+    "translationKey": "identity-overview",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/about",
+    "alternates": {
+      "en-US": "/about"
+    }
+  },
+  {
+    "id": "guides",
+    "translationKey": "codes",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/codes",
+    "alternates": {
+      "en-US": "/codes"
+    }
+  },
+  {
+    "id": "contact",
+    "translationKey": "contact",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/contact",
+    "alternates": {
+      "en-US": "/contact"
+    }
+  },
+  {
+    "id": "wiki",
+    "translationKey": "controls-keys",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/controls",
+    "alternates": {
+      "en-US": "/controls"
+    }
+  },
+  {
+    "id": "faq",
+    "translationKey": "faq",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/faq",
+    "alternates": {
+      "en-US": "/faq"
+    }
+  },
+  {
+    "id": "maps-stages",
+    "translationKey": "maps-stages",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/maps",
+    "alternates": {
+      "en-US": "/maps"
+    }
+  },
+  {
+    "id": "privacy-policy",
+    "translationKey": "privacy-policy",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/privacy-policy",
+    "alternates": {
+      "en-US": "/privacy-policy"
+    }
+  },
+  {
+    "id": "speed-mechanics",
+    "translationKey": "speed-mechanics",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/speed",
+    "alternates": {
+      "en-US": "/speed"
+    }
+  },
+  {
+    "id": "terms",
+    "translationKey": "terms",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/terms",
+    "alternates": {
+      "en-US": "/terms"
+    }
+  },
+  {
+    "id": "upgrades-progression",
+    "translationKey": "upgrades-progression",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/upgrades",
+    "alternates": {
+      "en-US": "/upgrades"
+    }
+  },
+  {
+    "id": "beginner-walkthrough",
+    "translationKey": "beginner-walkthrough",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/walkthrough",
+    "alternates": {
+      "en-US": "/walkthrough"
+    }
+  }
+]
